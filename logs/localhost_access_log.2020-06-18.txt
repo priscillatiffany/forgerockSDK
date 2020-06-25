@@ -1,0 +1,181 @@
+127.0.0.1 - - [18/Jun/2020:16:52:54 +0700] "GET / HTTP/1.1" 200 11415
+127.0.0.1 - - [18/Jun/2020:16:52:55 +0700] "GET /tomcat.css HTTP/1.1" 200 5931
+127.0.0.1 - - [18/Jun/2020:16:52:55 +0700] "GET /tomcat.png HTTP/1.1" 200 5103
+127.0.0.1 - - [18/Jun/2020:16:52:55 +0700] "GET /bg-nav.png HTTP/1.1" 200 1401
+127.0.0.1 - - [18/Jun/2020:16:52:55 +0700] "GET /asf-logo-wide.svg HTTP/1.1" 200 27530
+127.0.0.1 - - [18/Jun/2020:16:52:55 +0700] "GET /bg-button.png HTTP/1.1" 200 713
+127.0.0.1 - - [18/Jun/2020:16:52:55 +0700] "GET /bg-upper.png HTTP/1.1" 200 3103
+127.0.0.1 - - [18/Jun/2020:16:52:55 +0700] "GET /bg-middle.png HTTP/1.1" 200 1918
+127.0.0.1 - - [18/Jun/2020:16:52:55 +0700] "GET /favicon.ico HTTP/1.1" 200 21630
+127.0.0.1 - - [18/Jun/2020:17:06:15 +0700] "GET / HTTP/1.1" 200 11415
+127.0.0.1 - - [18/Jun/2020:17:06:15 +0700] "GET /favicon.ico HTTP/1.1" 200 21630
+127.0.0.1 - - [18/Jun/2020:17:06:54 +0700] "GET / HTTP/1.1" 200 11415
+127.0.0.1 - - [18/Jun/2020:17:06:54 +0700] "GET /favicon.ico HTTP/1.1" 200 21630
+127.0.0.1 - - [18/Jun/2020:17:25:22 +0700] "GET / HTTP/1.1" 200 11415
+127.0.0.1 - - [18/Jun/2020:17:25:22 +0700] "GET /favicon.ico HTTP/1.1" 200 21630
+127.0.0.1 - - [18/Jun/2020:17:28:57 +0700] "-" 400 -
+127.0.0.1 - - [18/Jun/2020:17:28:57 +0700] "-" 400 -
+127.0.0.1 - - [18/Jun/2020:17:29:02 +0700] "-" 400 -
+127.0.0.1 - - [18/Jun/2020:17:29:02 +0700] "-" 400 -
+127.0.0.1 - - [18/Jun/2020:17:29:08 +0700] "-" 400 -
+127.0.0.1 - - [18/Jun/2020:17:29:08 +0700] "-" 400 -
+127.0.0.1 - - [18/Jun/2020:17:29:09 +0700] "-" 400 -
+127.0.0.1 - - [18/Jun/2020:17:29:09 +0700] "-" 400 -
+127.0.0.1 - - [18/Jun/2020:17:30:53 +0700] "-" 400 -
+127.0.0.1 - - [18/Jun/2020:17:30:53 +0700] "-" 400 -
+127.0.0.1 - - [18/Jun/2020:17:30:59 +0700] "-" 400 -
+127.0.0.1 - - [18/Jun/2020:17:30:59 +0700] "-" 400 -
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:31:26 +0700] "-" 400 -
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:31:26 +0700] "-" 400 -
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:31:36 +0700] "GET / HTTP/1.1" 200 11415
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:31:36 +0700] "GET /tomcat.css HTTP/1.1" 200 5931
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:31:36 +0700] "GET /tomcat.png HTTP/1.1" 200 5103
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:31:36 +0700] "GET /bg-nav.png HTTP/1.1" 200 1401
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:31:36 +0700] "GET /bg-button.png HTTP/1.1" 200 713
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:31:36 +0700] "GET /bg-upper.png HTTP/1.1" 200 3103
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:31:36 +0700] "GET /asf-logo-wide.svg HTTP/1.1" 200 27530
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:31:36 +0700] "GET /bg-middle.png HTTP/1.1" 200 1918
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:31:36 +0700] "GET /favicon.ico HTTP/1.1" 200 21630
+127.0.0.1 - - [18/Jun/2020:17:32:27 +0700] "-" 400 -
+127.0.0.1 - - [18/Jun/2020:17:32:27 +0700] "-" 400 -
+127.0.0.1 - - [18/Jun/2020:17:32:31 +0700] "-" 400 -
+127.0.0.1 - - [18/Jun/2020:17:32:31 +0700] "-" 400 -
+127.0.0.1 - - [18/Jun/2020:17:32:33 +0700] "-" 400 -
+127.0.0.1 - - [18/Jun/2020:17:32:33 +0700] "-" 400 -
+127.0.0.1 - - [18/Jun/2020:17:32:33 +0700] "-" 400 -
+127.0.0.1 - - [18/Jun/2020:17:32:33 +0700] "-" 400 -
+127.0.0.1 - - [18/Jun/2020:17:32:33 +0700] "-" 400 -
+127.0.0.1 - - [18/Jun/2020:17:32:33 +0700] "-" 400 -
+127.0.0.1 - - [18/Jun/2020:17:32:34 +0700] "-" 400 -
+127.0.0.1 - - [18/Jun/2020:17:32:34 +0700] "-" 400 -
+127.0.0.1 - - [18/Jun/2020:17:32:34 +0700] "-" 400 -
+127.0.0.1 - - [18/Jun/2020:17:32:34 +0700] "-" 400 -
+127.0.0.1 - - [18/Jun/2020:17:32:34 +0700] "-" 400 -
+127.0.0.1 - - [18/Jun/2020:17:32:34 +0700] "-" 400 -
+127.0.0.1 - - [18/Jun/2020:17:32:34 +0700] "-" 400 -
+127.0.0.1 - - [18/Jun/2020:17:32:34 +0700] "-" 400 -
+127.0.0.1 - - [18/Jun/2020:17:32:34 +0700] "-" 400 -
+127.0.0.1 - - [18/Jun/2020:17:32:34 +0700] "-" 400 -
+127.0.0.1 - - [18/Jun/2020:17:32:34 +0700] "-" 400 -
+127.0.0.1 - - [18/Jun/2020:17:32:34 +0700] "-" 400 -
+127.0.0.1 - - [18/Jun/2020:17:32:35 +0700] "-" 400 -
+127.0.0.1 - - [18/Jun/2020:17:32:35 +0700] "-" 400 -
+127.0.0.1 - - [18/Jun/2020:17:41:16 +0700] "-" 400 -
+127.0.0.1 - - [18/Jun/2020:17:41:16 +0700] "-" 400 -
+127.0.0.1 - - [18/Jun/2020:17:41:16 +0700] "-" 400 -
+127.0.0.1 - - [18/Jun/2020:17:41:16 +0700] "-" 400 -
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:41:22 +0700] "GET /openam/ HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:42:25 +0700] "GET /openam/ HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:42:26 +0700] "GET /openam/config/options.htm HTTP/1.1" 200 17611
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:42:26 +0700] "GET /openam/assets/lib/yui/reset-fonts-grids/reset-fonts-grids.css HTTP/1.1" 200 5170
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:42:26 +0700] "GET /openam/assets/css/yui-overrides.css HTTP/1.1" 200 1131
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:42:26 +0700] "GET /openam/assets/lib/yui/base/base.css HTTP/1.1" 200 1607
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:42:26 +0700] "GET /openam/com_sun_web_ui/css/css_ns6up.css HTTP/1.1" 200 53229
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:42:26 +0700] "GET /openam/assets/css/style.css HTTP/1.1" 200 17036
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:42:26 +0700] "GET /openam/assets/lib/yui/connection/connection-min.js HTTP/1.1" 200 13996
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:42:26 +0700] "GET /openam/assets/lib/yui/animation/animation-min.js HTTP/1.1" 200 15072
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:42:26 +0700] "GET /openam/assets/lib/yui/yahoo-dom-event/yahoo-dom-event.js HTTP/1.1" 200 36745
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:42:26 +0700] "GET /openam/assets/lib/yui/element/element-beta-min.js HTTP/1.1" 200 9677
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:42:26 +0700] "GET /openam/assets/lib/yui/logger/assets/skins/sam/logger.css HTTP/1.1" 200 1734
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:42:26 +0700] "GET /openam/assets/lib/yui/datatable/assets/skins/sam/datatable.css HTTP/1.1" 200 5640
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:42:26 +0700] "GET /openam/assets/lib/yui/dragdrop/dragdrop-min.js HTTP/1.1" 200 23420
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:42:26 +0700] "GET /openam/assets/lib/yui/logger/logger-min.js HTTP/1.1" 200 20991
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:42:26 +0700] "GET /openam/assets/lib/yui/button/button-beta-min.js HTTP/1.1" 200 35547
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:42:26 +0700] "GET /openam/assets/lib/yui/datasource/datasource-beta-min.js HTTP/1.1" 200 15751
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:42:26 +0700] "GET /openam/assets/lib/yui/container/container-min.js HTTP/1.1" 200 78752
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:42:26 +0700] "GET /openam/assets/lib/json/json.js HTTP/1.1" 200 10776
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:42:26 +0700] "GET /openam/assets/lib/yui/assets/skins/sam/skin.css HTTP/1.1" 200 54233
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:42:26 +0700] "GET /openam/assets/lib/yui/tabview/tabview.js HTTP/1.1" 200 33630
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:42:26 +0700] "GET /openam/assets/js/AjaxUtils.js HTTP/1.1" 200 17752
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:42:26 +0700] "GET /openam/assets/lib/yui/datatable/datatable-beta-min.js HTTP/1.1" 200 108054
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:42:26 +0700] "GET /openam/assets/css/Specific/optionUpgrade.css HTTP/1.1" 200 2589
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:42:26 +0700] "GET /openam/assets/js/App.js HTTP/1.1" 200 17097
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:42:26 +0700] "GET /openam/assets/images/rel_interstitial_loading.gif HTTP/1.1" 200 6610
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:42:26 +0700] "GET /openam/images/dot.gif HTTP/1.1" 200 807
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:42:26 +0700] "GET /openam/assets/images/rel_interstitial_loading.gif HTTP/1.1" 200 6610
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:42:26 +0700] "GET /openam/images/login-backimage-long.jpg HTTP/1.1" 200 26123
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:42:26 +0700] "GET /openam/legal-notices/Forgerock_License.txt HTTP/1.1" 200 8770
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:42:26 +0700] "GET /openam/com_sun_web_ui/images/favicon/favicon.ico HTTP/1.1" 200 1653
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:42:26 +0700] "GET /openam/config/defaultSummary.htm?locale= HTTP/1.1" 200 6366
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:42:26 +0700] "GET /openam/config/wizard/wizard.htm?locale= HTTP/1.1" 200 21499
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:42:26 +0700] "GET /openam/assets/css/Specific/wizard.css HTTP/1.1" 200 3531
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:42:26 +0700] "GET /openam/assets/lib/yui/assets/skins/sam/sprite.png HTTP/1.1" 200 3123
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:42:26 +0700] "GET /openam/config/wizard/step1.htm HTTP/1.1" 200 4420
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:42:26 +0700] "GET /openam/config/wizard/step1.htm?locale= HTTP/1.1" 200 4420
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:42:26 +0700] "GET /openam/assets/images/message.gif HTTP/1.1" 200 325
+127.0.0.1 - - [18/Jun/2020:17:42:48 +0700] "-" 400 -
+127.0.0.1 - - [18/Jun/2020:17:42:48 +0700] "-" 400 -
+127.0.0.1 - - [18/Jun/2020:17:42:58 +0700] "-" 400 -
+127.0.0.1 - - [18/Jun/2020:17:42:58 +0700] "-" 400 -
+127.0.0.1 - - [18/Jun/2020:17:43:00 +0700] "-" 400 -
+127.0.0.1 - - [18/Jun/2020:17:43:00 +0700] "-" 400 -
+127.0.0.1 - - [18/Jun/2020:17:43:01 +0700] "-" 400 -
+127.0.0.1 - - [18/Jun/2020:17:43:01 +0700] "-" 400 -
+127.0.0.1 - - [18/Jun/2020:17:43:01 +0700] "-" 400 -
+127.0.0.1 - - [18/Jun/2020:17:43:01 +0700] "-" 400 -
+127.0.0.1 - - [18/Jun/2020:17:43:01 +0700] "-" 400 -
+127.0.0.1 - - [18/Jun/2020:17:43:01 +0700] "-" 400 -
+127.0.0.1 - - [18/Jun/2020:17:43:01 +0700] "-" 400 -
+127.0.0.1 - - [18/Jun/2020:17:43:01 +0700] "-" 400 -
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:43:07 +0700] "GET /openam/config/options.htm?actionLink=resetSessionAttributes HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:43:15 +0700] "GET /openam/assets/images/wizard/wiz-arrow.gif HTTP/1.1" 200 173
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:43:24 +0700] "POST /openam/config/defaultSummary.htm?actionLink=checkPasswords&ie7fix=2 HTTP/1.1" 200 4
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:43:24 +0700] "POST /openam/config/defaultSummary.htm?actionLink=checkPasswords&ie7fix=3 HTTP/1.1" 200 4
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:43:24 +0700] "GET /openam/assets/images/ok.jpg HTTP/1.1" 200 1010
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:43:26 +0700] "POST /openam/config/defaultSummary.htm?actionLink=checkPasswords&ie7fix=5 HTTP/1.1" 200 16
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:43:26 +0700] "POST /openam/config/defaultSummary.htm?actionLink=checkPasswords&ie7fix=4 HTTP/1.1" 200 16
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:43:26 +0700] "GET /openam/assets/images/error.jpg HTTP/1.1" 200 686
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:43:30 +0700] "POST /openam/config/defaultSummary.htm?actionLink=checkPasswords&ie7fix=6 HTTP/1.1" 200 24
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:43:32 +0700] "POST /openam/config/defaultSummary.htm?actionLink=checkPasswords&ie7fix=7 HTTP/1.1" 200 4
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:47:39 +0700] "GET /openam/setup/setSetupProgress HTTP/1.1" 200 53264
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:47:39 +0700] "GET /openam/config/defaultSummary.htm?actionLink=createDefaultConfig HTTP/1.1" 200 4
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:47:52 +0700] "GET /openam/UI/Login HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:47:52 +0700] "GET /openam/XUI/ HTTP/1.1" 200 993
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:47:52 +0700] "GET /openam/XUI/main.e9a4337025.js HTTP/1.1" 200 2081710
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:47:53 +0700] "GET /openam/json/serverinfo/* HTTP/1.1" 200 503
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:47:53 +0700] "GET /openam/XUI/locales/en-US/translation.json HTTP/1.1" 404 808
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:47:53 +0700] "GET /openam/XUI/locales/en/translation.json HTTP/1.1" 200 103638
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:47:53 +0700] "POST /openam/json/sessions?_action=getSessionInfo HTTP/1.1" 401 62
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:47:53 +0700] "GET /openam/XUI/config/ThemeConfiguration.faba00d01e.js HTTP/1.1" 200 5256
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:47:53 +0700] "GET /openam/XUI/css/structure.css HTTP/1.1" 200 71400
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:47:53 +0700] "GET /openam/XUI/css/bootstrap-3.3.7-custom.css HTTP/1.1" 200 122283
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:47:53 +0700] "GET /openam/XUI/392.70860b3cb7.js HTTP/1.1" 200 1761
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:47:53 +0700] "GET /openam/XUI/389.448bb906f5.js HTTP/1.1" 200 1232
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:47:53 +0700] "GET /openam/XUI/388.59d748e658.js HTTP/1.1" 200 2546
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:47:53 +0700] "GET /openam/XUI/387.fe18bf77da.js HTTP/1.1" 200 3851
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:47:53 +0700] "GET /openam/XUI/386.85d15ba44b.js HTTP/1.1" 200 1428
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:47:53 +0700] "GET /openam/XUI/385.654309b4b3.js HTTP/1.1" 200 1757
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:47:53 +0700] "GET /openam/XUI/384.701158b80b.js HTTP/1.1" 200 921
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:47:53 +0700] "GET /openam/XUI/383.11d33c5e16.js HTTP/1.1" 200 1770
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:47:53 +0700] "GET /openam/XUI/381.43df1d9fc5.js HTTP/1.1" 200 710
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:47:53 +0700] "GET /openam/XUI/380.af5e0eeaac.js HTTP/1.1" 200 897
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:47:53 +0700] "GET /openam/XUI/379.fcbdc3f83b.js HTTP/1.1" 200 1101
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:47:53 +0700] "GET /openam/XUI/378.e1fd8ae9bb.js HTTP/1.1" 200 2853
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:47:53 +0700] "GET /openam/XUI/377.757f29bf4a.js HTTP/1.1" 200 2062
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:47:53 +0700] "GET /openam/XUI/375.c0866e9e25.js HTTP/1.1" 200 1043
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:47:53 +0700] "GET /openam/XUI/376.29768e926a.js HTTP/1.1" 200 1178
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:47:53 +0700] "GET /openam/XUI/css/theme.css HTTP/1.1" 200 12640
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:47:53 +0700] "GET /openam/XUI/382.6f6583e2fd.js HTTP/1.1" 200 941
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:47:53 +0700] "GET /openam/XUI/393.c975bdbf46.js HTTP/1.1" 200 1348
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:47:53 +0700] "GET /openam/XUI/395.e2028a6df8.js HTTP/1.1" 200 755
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:47:53 +0700] "GET /openam/XUI/237.c3b0f849e3.js HTTP/1.1" 200 1812
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:47:53 +0700] "GET /openam/XUI/235.1d9cad8aa7.js HTTP/1.1" 200 1280
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:47:53 +0700] "GET /openam/XUI/394.252353e63a.js HTTP/1.1" 200 1796
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:47:53 +0700] "POST /openam/json/realms/root/authenticate HTTP/1.1" 200 637
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:47:53 +0700] "GET /openam/XUI/208.a4f92f0905.js HTTP/1.1" 200 2504
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:47:53 +0700] "GET /openam/XUI/236.dd43909e4f.js HTTP/1.1" 200 384
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:47:53 +0700] "GET /openam/XUI/373.ba51cc385b.js HTTP/1.1" 200 4046
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:47:53 +0700] "GET /openam/XUI/374.a99e8ef56a.js HTTP/1.1" 200 2183
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:47:53 +0700] "GET /openam/XUI/images/2a5ced16cb51e0f182860c6af0bc4003.png HTTP/1.1" 200 37510
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:47:53 +0700] "GET /openam/XUI/233.3f39528b0d.js HTTP/1.1" 200 9613
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:48:10 +0700] "POST /openam/json/realms/root/authenticate HTTP/1.1" 200 167
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:48:10 +0700] "POST /openam/json/sessions?_action=getSessionInfo HTTP/1.1" 200 308
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:48:10 +0700] "POST /openam/json/realms/root/users?_action=idFromSession HTTP/1.1" 200 159
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:48:20 +0700] "GET /openam/json/realms/root/users/amadmin HTTP/1.1" 200 532
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:48:21 +0700] "GET /openam/XUI/138.9571f9b964.js HTTP/1.1" 200 25424
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:48:21 +0700] "GET /openam/XUI/css/styles-admin.css HTTP/1.1" 200 180797
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:48:21 +0700] "GET /openam/json/serverinfo/version HTTP/1.1" 200 171
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:48:21 +0700] "GET /openam/json/global-config/realms?_queryFilter=true HTTP/1.1" 200 235
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:48:21 +0700] "GET /openam/json/serverinfo/version HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:48:21 +0700] "GET /openam/XUI/images/9b192e7f9c50c12bf94d2dbac92eccb4.png HTTP/1.1" 200 9821
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:17:48:21 +0700] "GET /openam/XUI/css/af7ae505a9eed503f8b8e6982036873e.woff2 HTTP/1.1" 200 77160
